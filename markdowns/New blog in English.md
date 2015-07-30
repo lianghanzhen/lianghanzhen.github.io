@@ -6,7 +6,7 @@ All of my blogs are served by [Github Pages](https://pages.github.com/) that is 
 
 ### Contact me
 
-[Gmail](handrenliang@gmail.com)
+[Gmail](mailto:handrenliang@gmail.com)
 
 [Weibo: 薛定谔的猿](http://weibo.com/u/1765127571)
 
